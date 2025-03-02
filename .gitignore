@@ -1,0 +1,14 @@
+.jekyll-cache
+.sass-cache
+_site
+.DS_Store
+*.swp
+*~
+bundle
+Gemfile.lock
+node_modules
+vendor/bundle
+/vendor/ruby/*/bin
+/vendor/ruby/*/cache
+/vendor/ruby/*/gems/*/bundler
+/vendor/ruby/*/specifications/bundler*
